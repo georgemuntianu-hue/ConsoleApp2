@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\visual aplicatii\stocaredate\obj\Debug\net10.0\stocaredate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\visual aplicatii\stocaredate\obj\Debug\net10.0\stocaredate.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\visual aplicatii\stocaredate\obj\Debug\net10.0\stocaredate.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\visual aplicatii\stocaredate\obj\Debug\net10.0\stocaredate.csproj.CoreCompileInputs.cache

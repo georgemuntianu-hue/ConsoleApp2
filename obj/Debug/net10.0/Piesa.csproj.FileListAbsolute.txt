@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\bin\Debug\net10.0\Piesa.exe
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\bin\Debug\net10.0\Piesa.deps.json
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\bin\Debug\net10.0\Piesa.runtimeconfig.json
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\bin\Debug\net10.0\Piesa.dll
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\bin\Debug\net10.0\Piesa.pdb
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.dll
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\refint\Piesa.dll
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.pdb
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\Piesa.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\visual aplicatii\Piesa\obj\Debug\net10.0\ref\Piesa.dll
