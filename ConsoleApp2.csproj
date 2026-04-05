@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Piesa\Piesa.csproj" />
+    <ProjectReference Include="..\stocaredate\stocaredate.csproj" />
+  </ItemGroup>
+
 </Project>

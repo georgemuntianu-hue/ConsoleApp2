@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../Piesa/Piesa.csproj" Id="95829cd4-ba32-4806-89eb-a0a0f232a48a" />
+  <Project Path="../stocaredate/stocaredate.csproj" Id="d01c6672-10c2-41fa-a63c-45cf21754bfb" />
   <Project Path="ConsoleApp2.csproj" />
 </Solution>
