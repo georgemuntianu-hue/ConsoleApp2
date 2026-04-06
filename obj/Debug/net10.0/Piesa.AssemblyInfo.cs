@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Piesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2de4a7e51d0ac107892e57a4f78560510b554988")]
 [assembly: System.Reflection.AssemblyProductAttribute("Piesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Piesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
